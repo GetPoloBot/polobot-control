@@ -1,7 +1,7 @@
 {
-  "version": "2.3",
+  "version": "2.4",
   "url": "https://github.com/GetPoloBot/polobot-control/releases/latest/download/PoloBot_Setup.exe",
-  "notas": "Pociones y habilidades más confiables, comportamiento más natural, calibración de los botones Empezar/Detener, mejoras al revivir y tu configuración se conserva al actualizar.",
+  "notas": "Calibraciones por resolución, Centro de Calibración y aviso antes de iniciar si falta calibrar.",
   "revocadas": [],
   "aviso": "🎉 Promo hasta del 40% de descuento en licencias. Escríbeme a [@PoloSoporte_Bot](https://t.me/PoloSoporte_Bot)",
   "aviso_id": "promo-junio-2026"
